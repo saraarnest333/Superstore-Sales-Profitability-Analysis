@@ -58,9 +58,9 @@ Legitimate outliers were retained because extreme transactions can represent mea
 
 ## Selected Analysis Screenshots
 
-* **[View Business Insights](images/Business%20Insights.png)**
-* **[View Category & Product Performance](images/Category%20&%20Product%20Performance.jpg)**
-* **[View Sales & Profit Analysis](images/Sales%20&%20Profit%20Analysis.jpg)**
+* **[View Business Insights](https://github.com/saraarnest333/Superstore-Sales-Profitability-Analysis/edit/main/images/Business%20Insights.png)**
+* **[View Category & Product Performance](https://github.com/saraarnest333/Superstore-Sales-Profitability-Analysis/edit/main/images/Category%20&%20Product%20Performance.png)**
+* **[View Sales & Profit Analysis](https://github.com/saraarnest333/Superstore-Sales-Profitability-Analysis/edit/main/images/Sales%20&%20Profit%20Analysis.jpg)**
   
 ## Project Files
 
