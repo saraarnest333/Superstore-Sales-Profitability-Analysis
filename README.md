@@ -58,18 +58,10 @@ Legitimate outliers were retained because extreme transactions can represent mea
 
 ## Selected Analysis Screenshots
 
-### Business Insights
-
-![Business Insights](images/Business%20Insights.png)
-
-### Category & Product Performance
-
-![Category & Product Performance](images/Category%20&%20Product%20Performance.jpg)
-
-### Sales & Profit Analysis
-
-![Sales & Profit Analysis](images/Sales%20&%20Profit%20Analysis.jpg)
-
+* **[View Business Insights](images/Business%20Insights.png)**
+* **[View Category & Product Performance](images/Category%20&%20Product%20Performance.jpg)**
+* **[View Sales & Profit Analysis](images/Sales%20&%20Profit%20Analysis.jpg)**
+  
 ## Project Files
 
 | File | Description |
