@@ -58,11 +58,17 @@ Legitimate outliers were retained because extreme transactions can represent mea
 
 ## Selected Analysis Screenshots
 
-### Executive Superstore Dashboard & Strategic Insights
+### Business Insights
 
-### Business Performance, Customer Segments & Regional Revenue
+![Business Insights](images/Business Insights.png)
 
-### Statistical Distribution & Outlier Detection Analysis (IQR Method)
+### Category & Product Performance
+
+![Category & Product Performance](images/Category & Product Performance.jpg)
+
+### Sales & Profit Analysis
+
+![Sales & Profit Analysis](images/Sales & Profit Analysis.jpg)
 
 ## Project Files
 
